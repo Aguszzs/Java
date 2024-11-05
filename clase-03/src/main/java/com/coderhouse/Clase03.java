@@ -102,7 +102,7 @@ public class Clase03 {
 		do {
 			System.out.println(contador);
 			contador++;
-		} while (contador < 5);
+		} while (contador < 5); 
 		
 	}
 
